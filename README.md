@@ -1,4 +1,4 @@
-# CardioGuard – Heart Disease Prediction System
+
 
 An ML-powered web application that predicts the likelihood of heart disease based on user-provided medical parameters.
 
